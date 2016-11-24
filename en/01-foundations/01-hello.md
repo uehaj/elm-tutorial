@@ -33,8 +33,8 @@ elm reactor
 This should show you:
 
 ```
-elm reactor 0.17.0
-Listening on http://0.0.0.0:8000/
+elm reactor 0.18.0
+Listening on http://localhost:8000/
 ```
 
 Open `http://0.0.0.0:8000/` on a browser. And click on `Hello.elm`. You should see `Hello` on your browser.
